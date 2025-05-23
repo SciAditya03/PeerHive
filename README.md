@@ -1,2 +1,1 @@
-# PeerHIve
-Holistic Student Portal – AI-Driven Support System
+# peerhive-community-portal
